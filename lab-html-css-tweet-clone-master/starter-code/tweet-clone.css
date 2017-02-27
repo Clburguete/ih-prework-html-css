@@ -1,0 +1,73 @@
+body{
+  background:        rgb(244, 248, 249);
+}
+
+.mainContainer {
+  width: 590px;
+  padding: 10px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(225, 232, 237);
+  border-radius: 10px;
+  background: rgb(255, 255, 255);
+}
+.avatar{
+  margin-top:0px;
+  padding-left:10px;
+  padding-right: 15px;
+  float:left;
+  width: 48px;
+  border-radius: 5px;
+}
+.logos{
+  padding-right: 2px;
+  height: 20px;
+
+
+}
+.header{
+      display: block;
+    padding-top: 5px;
+    margin-top: 3px;
+    font-size: 20px;
+    line-height: 1.25;
+    font-weight:bold;
+}
+.follow{
+  margin-right: 5px;
+  padding: 5px 10px;
+  font-size: 20px;
+  float:right;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  color: rgb(85, 172, 238);
+}
+h2{
+  font-weight: normal;
+  font-size: 16px;
+  color: rgb(104, 109, 129);
+  line-height: 0px;
+}
+.content{
+  padding-left: 10px;
+  padding-top: 1px;
+  font-size: 18px;
+  line-height: 10px;
+}
+.date{
+  color: rgb(101, 116, 127);
+  font-size: 16px;
+}
+.iconText{
+  font-size: 15px;
+  padding-right:10px;
+  color: rgb(105, 120, 130);
+  position: relative;
+  left: -10px;
+}
+.icons{
+  height: 16px;
+  padding-right:10px;
+}
